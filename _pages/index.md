@@ -15,9 +15,16 @@ permalink: /
 
 # 35.7
 ## Gt.Vo.たかはし　Gt.かみのはら　Dr.こな　Ba.さくや
-### 見出し3
+　　　![image](https://cdfront.tower.jp/~/media/Images/Tol/pc/article/feature_item/J-Pop/2024/02/23/0711.jpg?h=397&w=600&la=ja-JP)
+  
+### 
 #### シングル&EP
-　　　　　　　　　　　あ
+・ハイウェイ　
+・すももドロップ
+・骨が溶けるほどの青い春-EP
+・祝日天国
+・ちぐはぐ
+・バッドリピートエンド
 ##### 見出し5
 ###### 見出し6
 
